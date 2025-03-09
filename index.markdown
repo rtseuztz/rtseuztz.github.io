@@ -4,4 +4,6 @@
 
 layout: home
 ---
-## Here is my index file
+## Hi, I'm Saji 👋
+
+I'm a passionate, awarded software engineer crafting innovative solutions
