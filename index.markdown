@@ -5,7 +5,7 @@ layout: default
 <div class="hero-section">
   <div class="hero-content">
     <h1 class="hero-title">Hi, I'm Saji Shunnarah 👋</h1>
-    <p class="hero-subtitle">Passionate Software Engineer | Full-Stack Developer | Problem Solver</p>
+    <p class="hero-subtitle">Passionate Software Engineer | M.S. Student @ Georgia Tech</p>
     <p class="hero-description">I craft innovative solutions and build scalable applications that make a difference</p>
     <div class="hero-cta">
       <a href="#projects" class="btn btn-primary">View My Work</a>
