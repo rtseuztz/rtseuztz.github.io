@@ -20,6 +20,7 @@ layout: default
     <div class="about-content">
       <p>I'm an awarded software engineer with a passion for creating elegant solutions to complex problems. With expertise in full-stack development, I specialize in building scalable web applications using modern technologies.</p>
       <p>My approach combines technical excellence with user-centered design, ensuring that every project not only works flawlessly but also provides an exceptional user experience.</p>
+      <p>I'm currently pursuing a Master's degree in Computer Science at Georgia Tech, deepening my expertise in advanced software engineering and human-computer interaction.</p>
     </div>
   </div>
 </section>
