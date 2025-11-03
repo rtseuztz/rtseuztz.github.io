@@ -1,21 +1,16 @@
 ---
 layout: post
-title: "Resume Creator"
+title: "Rezumake"
 date: 2025-03-03 20:53:22 -0500
-categories: jekyll project
+categories: Project
 ---
 
 ## Smart Resume Generation at Your Fingertips
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://resume-creator-1002062189342.us-east1.run.app/" target="_blank" class="btn btn-primary" style="display: inline-block; padding: 0.75rem 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 8px; font-weight: 600; text-decoration: none;">
-    Try Resume Creator Live →
-  </a>
-</div>
 
-![Resume Creator Dashboard](/assets/images/resume_dashboard.png)
+![Rezumake Dashboard](/assets/images/resume_dashboard.png)
 
-An intelligent tool that helps you create tailored resumes for different job applications in minutes. Resume Creator innovates the job application process by streamlining resume creation to save you time and increase your chances of landing interviews.
+An intelligent tool that helps you create tailored resumes for different job applications in minutes. Rezumake innovates the job application process by streamlining resume creation to save you time and increase your chances of landing interviews.
 
 Built with modern technologies including **Angular**, **Java SpringBoot**, and **Google Cloud Platform**, this full-stack application demonstrates enterprise-level architecture and best practices.
 
@@ -50,7 +45,7 @@ Built with modern technologies including **Angular**, **Java SpringBoot**, and *
 
 ![User Signup](/assets/videos/CreateAccount.gif)
 
-Resume Creator features a **custom-built authentication system** with enterprise-grade security:
+Rezumake features a **custom-built authentication system** with enterprise-grade security:
 
 - **Encrypted Data Storage**: All user personal information is encrypted in the database
 - **Phone Verification**: Integrated with Twilio for SMS verification
@@ -113,15 +108,4 @@ Simply input your target job details, and the system intelligently selects and f
 
 ## 🔗 Links
 
-- [**Live Application**](https://resume-creator-1002062189342.us-east1.run.app/){:target="_blank"}
-- [**GitHub Repository**](https://github.com/rtseuztz){:target="_blank"}
-
----
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
-  <h3 style="color: white; margin-bottom: 1rem;">Ready to streamline your job search?</h3>
-  <p style="color: rgba(255,255,255,0.9); margin-bottom: 1.5rem;">Try Resume Creator today and create professional, tailored resumes in minutes.</p>
-  <a href="https://resume-creator-1002062189342.us-east1.run.app/" target="_blank" style="display: inline-block; padding: 0.75rem 2rem; background: white; color: #667eea; border-radius: 8px; font-weight: 600; text-decoration: none;">
-    Get Started →
-  </a>
-</div>
+- [**Live Application**](https://rezumake.com/){:target="_blank"}

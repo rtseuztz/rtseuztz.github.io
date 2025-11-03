@@ -1,6 +1,6 @@
 # Saji Shunnarah - Portfolio Website
 
-A modern, responsive portfolio website showcasing my software engineering projects and technical expertise.
+A modern, responsive portfolio website showcasing my software engineering projects and technical expertise, including Rezumake.
 
 ## 🌟 Features
 
@@ -29,8 +29,8 @@ A modern, responsive portfolio website showcasing my software engineering projec
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/rtseuztz/rtseuztz.github.io.git
-cd rtseuztz.github.io
+git clone https://github.com/rtseuztz/rezumake.com.git
+cd rezumake.com
 ```
 
 2. Install dependencies:
